@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: red;
+}
+
+.text {
+color: orange;
+}
+#pink {
+color: pink;
+}
+
+a {
+  color: hotpink;
+  background-color: yellow;
+  font-weight: bold;
+}
